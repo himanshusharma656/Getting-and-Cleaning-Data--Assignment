@@ -1,4 +1,6 @@
 # Getting-and-Cleaning-Data--Assignment
+Step0: Download Zip file from Getting-and-Cleaning-Data--Assignment|Coursera
+
 Step1: Read Activity and features file which can be used while naming the variables
 
 Step2: First all the dataset has been loaded into R environment in following order
